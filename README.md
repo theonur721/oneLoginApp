@@ -19,4 +19,3 @@
 - Stil için `nativewind` kullan.
 - Animasyon için `react-native-reanimated` kullan (kullanırken `Animated` import et).
 - `useNavigation`'ı kur ve gerekli sayfalara import et.
-# oneLoginApp
